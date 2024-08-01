@@ -13,5 +13,6 @@
 	},
 	"author": "Bundt",
 	"description": "Big test",
-	"keywords": [ "descriptive", "freecodecamp", "words" ]
+	"keywords": [ "descriptive", "freecodecamp", "words" ],
+	"license": "BIG"
 }
