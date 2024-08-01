@@ -12,5 +12,6 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
 	"author": "Bundt",
-	"description": "Big test"
+	"description": "Big test",
+	"keywords": [ "descriptive", "freecodecamp", "words" ]
 }
